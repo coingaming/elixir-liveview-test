@@ -10,11 +10,12 @@ The candidate should build a simple polling application using Phoenix LiveView. 
 4. Users should be able to create new polls.
 5. Users should be able to vote in existing polls.
 6. Users should be able to see real-time updates of the poll results.
-7. You are free to use any Elixir/Erlang library and any open-source CSS framework for the design.
-8. Performance: users actions should not be blocking each other. User 1 actions should not be blocked by user 2 actions. 
-9. The application should not use any external dependencies, such as a database or disk storage. All needed data should be stored in application memory.
-10. The application should start with `mix phx.server` so it can be started locally.
-11. The application should be well-structured, and the code should be readable.
+7. User can only vote once in a single poll.
+8. Performance: users actions should not be blocking each other. User 1 actions should not be blocked by user 2 actions.
+9. You are free to use any Elixir/Erlang library and any open-source CSS framework for the UI.
+10. The application should not use any external dependencies, such as a database or disk storage. All needed data should be stored in application memory.
+11. The application should start with `mix phx.server` so it can be started locally.
+12. The application should be well-structured, and the code should be readable.
 
 ### Deliverables
 
