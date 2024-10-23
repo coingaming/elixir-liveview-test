@@ -15,6 +15,7 @@ The candidate should build a simple polling application using Phoenix LiveView. 
 10. You are free to use any Elixir/Erlang library and any open-source CSS framework for the UI.
 12. The application should start with `mix phx.server` so it can be started locally.
 13. The application should be well-structured, and the code should be readable.
+14. The database should be set up with Docker and should be started with docker-compose.
 
 ### Deliverables
 
