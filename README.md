@@ -9,9 +9,10 @@ The candidate should build a simple polling application using Phoenix LiveView. 
 3. The solution should use database as a persistent storage.
 4. Users should be able to create account by inserting their username.
 5. Users should be able to create new polls.
-6. Users should be able to vote in existing polls.
-7. Users should be able to see real-time updates of the poll results.
-8. User can only vote once in a single poll.
+6. User should be able to configure multiple poll answers.
+7. Users should be able to vote in existing polls.
+8. Users should be able to see real-time updates of the poll results.
+9. User can only vote once in a single poll.
 10. You are free to use any Elixir/Erlang library and any open-source CSS framework for the UI.
 12. The application should start with `mix phx.server` so it can be started locally.
 13. The application should be well-structured, and the code should be readable.
